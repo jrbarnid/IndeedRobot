@@ -1,0 +1,6 @@
+D:\Code\IndeedPrime3\IndeedPrime3\bin\Debug\IndeedPrime3.exe.config
+D:\Code\IndeedPrime3\IndeedPrime3\bin\Debug\IndeedPrime3.exe
+D:\Code\IndeedPrime3\IndeedPrime3\bin\Debug\IndeedPrime3.pdb
+D:\Code\IndeedPrime3\IndeedPrime3\obj\Debug\IndeedPrime3.csprojResolveAssemblyReference.cache
+D:\Code\IndeedPrime3\IndeedPrime3\obj\Debug\IndeedPrime3.exe
+D:\Code\IndeedPrime3\IndeedPrime3\obj\Debug\IndeedPrime3.pdb
